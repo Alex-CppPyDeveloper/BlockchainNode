@@ -1,0 +1,17 @@
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\bin\Debug\netcoreapp3.1\BlockChainNode.exe
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\bin\Debug\netcoreapp3.1\BlockChainNode.deps.json
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\bin\Debug\netcoreapp3.1\BlockChainNode.runtimeconfig.json
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\bin\Debug\netcoreapp3.1\BlockChainNode.runtimeconfig.dev.json
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\bin\Debug\netcoreapp3.1\BlockChainNode.dll
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\bin\Debug\netcoreapp3.1\BlockChainNode.pdb
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.csprojAssemblyReference.cache
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.AssemblyInfoInputs.cache
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.AssemblyInfo.cs
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.dll
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.pdb
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.genruntimeconfig.cache
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.Properties.Resources.resources
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.csproj.GenerateResource.cache
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.csproj.CoreCompileInputs.cache
+C:\Users\lesha\OneDrive\Рабочий стол\Прога\Блокчейн\BlockChainNode\BlockChainNode\obj\Debug\netcoreapp3.1\BlockChainNode.csproj.CopyComplete
